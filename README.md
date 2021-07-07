@@ -14,7 +14,7 @@ cd polls
 
 clone https://github.com/EHGWRabbit/polls_full_stack_drf_and_react.git
 
-cd polls_full_stack_drf_and_react
+cd polls_full_stack_drf_and_react.master
 
 pipenv shell
 
@@ -48,6 +48,9 @@ cd frontend
 
 npx create-react-app 
 
+download axios
+
+
 yarn start
 
 localhost:3000
@@ -79,7 +82,7 @@ clone https://github.com/EHGWRabbit/polls_full_stack_drf_and_react.git
 
 
 перейдите в корневую папку репозитория
-cd polls_full_stack_drf_and_react
+cd polls_full_stack_drf_and_react.master
 
 запустите оболочку 
 
@@ -126,6 +129,9 @@ cd frontend
 
 запустить
 npx create-react-app 
+
+скачать 
+axios
 
 запустить
 yarn start
